@@ -1,7 +1,7 @@
 import "./App.css";
 import React, { useState, useEffect } from "react";
 import MapTest from "./MapTest";
-import "./App.css";
+//import "./App.css";
 
 const { kakao } = window;
 
